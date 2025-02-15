@@ -1,0 +1,27 @@
+.bitton {
+    width: 300px;
+    height: 350px;
+}
+
+.bitton2 {
+    width: 300px;
+    height: 350px;
+}
+
+.header {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+
+}
+
+button {
+    background-color: white;
+    border: 1px solid black;
+}
